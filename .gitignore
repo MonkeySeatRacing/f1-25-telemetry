@@ -1,3 +1,6 @@
+# Local EA docs (not for distribution)
+ea_docs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
